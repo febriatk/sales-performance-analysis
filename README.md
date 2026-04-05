@@ -81,14 +81,14 @@ Customers are grouped into three segments based on total spending:
 <img width="1484" height="835" alt="{4868A461-7B28-423A-B931-4F9D0994B8EC}" src="https://github.com/user-attachments/assets/c9af33b8-c2d1-4902-83ea-b9334e946f71" />
 
 ## INSIGHT
-• Sales trends, both in terms of revenue and total orders, showed an upward trend with a slight decline, peaking in November 2017. Although the trend declined sharply in the following month (December 2017), it rebounded the following month and remained stable until August 2019. At the end of the period (September 2019), there was a sharp decline, likely due to incomplete data available for that period.
-• The largest revenue came from the beauty and health product category, indicating strong market demand and a stable sales contribution to total revenue.
-• There were interesting patterns in sales for each product category:
-o Some categories had high revenue but low order volumes, such as watches and gifts, indicating higher prices for products in that category, resulting in a high AOV.
-Conversely, there are also categories with a high number of orders but lower revenue, such as the cama, mesa, banho (bed, table, bath) category, indicating that products in this category are more frequently purchased by the market at relatively low prices.
-• The region (state) with the highest number of customers is São Paulo, followed by Rio de Janeiro and Minas Gerais, indicating that purchase transactions are more concentrated in areas with large populations.
-• The most dominant payment method used by customers is credit card, while debit card is the payment method used less often by customers.
-• Customer segmentation shows that the majority of customers are in the low-value segment.
+- Sales trends, both in terms of revenue and total orders, showed an upward trend with a slight decline, peaking in November 2017. Although the trend declined sharply in the following month (December 2017), it rebounded the following month and remained stable until August 2019. At the end of the period (September 2019), there was a sharp decline, likely due to incomplete data available for that period.
+- The largest revenue came from the beauty and health product category, indicating strong market demand and a stable sales contribution to total revenue.
+- There were interesting patterns in sales for each product category:
+  - Some categories had high revenue but low order volumes, such as watches and gifts, indicating higher prices for products in that category, resulting in a high AOV.
+  - Conversely, there are also categories with a high number of orders but lower revenue, such as the cama, mesa, banho (bed, table, bath) category, indicating that products in this category are more frequently purchased by the market at relatively low prices.
+- The region (state) with the highest number of customers is São Paulo, followed by Rio de Janeiro and Minas Gerais, indicating that purchase transactions are more concentrated in areas with large populations.
+- The most dominant payment method used by customers is credit card, while debit card is the payment method used less often by customers.
+- Customer segmentation shows that the majority of customers are in the low-value segment.
 
 ## BUSINESS RECOMMENDATION
 - Prioritize Marketing on Product Categories that Contribute the Highest Revenue
